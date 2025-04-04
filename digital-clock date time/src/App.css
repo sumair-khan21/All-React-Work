@@ -1,0 +1,33 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+
+/* Add some basic styles for the clock container */
+div {
+  text-align: center;
+  margin-top: 50px;
+  font-family: 'Arial', sans-serif;
+}
+
+/* Style for the heading */
+h1 {
+  color: #333;
+}
+
+/* Style for the digital clock text */
+p {
+  font-size: 2em;
+  color: #0066cc;
+  margin-top: 10px;
+}
+
+h2{
+  font-size: 2em;
+  color: #121010;
+  margin-top: 10px;
+  text-decoration: underline;
+}
